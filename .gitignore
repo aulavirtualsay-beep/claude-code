@@ -1,2 +1,8 @@
-.DS_Store
+# Dependencies
+node_modules/
 
+# Next.js build output
+.next/
+
+# Environment variables (contains secrets like Supabase keys)
+.env*
